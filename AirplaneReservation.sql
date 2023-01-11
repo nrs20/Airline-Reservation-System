@@ -1,7 +1,4 @@
--- CS331- Group11; 
--- Natalia Smith, 
--- Jose Cabrera, 
--- Dustin La
+
 
 DROP TABLE PASSENGER CASCADE CONSTRAINTS;
 DROP TABLE BAGGAGE CASCADE CONSTRAINTS;
